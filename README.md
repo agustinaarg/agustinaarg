@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agustina! 
 - 👀 I’m a computer science student at Buenos Aires University.
-- 🌱 I’m currently learning C#.NET
-- 🖥️ My skills include: C++, C#, HTML, CSS, SASS, JavaScript, Git, Ubuntu, Visual Studio Code.
+- 🌱 I’m currently learning mySQL.
+- 🖥️ My skills include: C++, C#, ASP.NET, HTML, CSS, SASS, JavaScript, Git, Ubuntu, Visual Studio Code, Visual Studio. 
 - ✏️ My native language is Spanish, I'm fluent in English and I've been learning Mandarin for a few years. 
 - 📬 Find me at: https://www.linkedin.com/in/agustina-borsato/
 <!--
